@@ -1,3 +1,3 @@
 BlueBirds
-=========
-This is about sematic search for image and video
+
+This is about sematic search of image and video
